@@ -1,4 +1,3 @@
-
 #include "app_hw.h"
 
 #include <stdlib.h>
@@ -127,7 +126,7 @@ static void set_relay_task(void *arg)
             ESP_LOGI(TAG, "GREEN LED GPIO25: %d",
                      gpio_get_level(APP_LED_LOW));
 
-            ESP_LOGI(TAG, "RED LED GPIO26: %d",
+            ESP_LOGI(TAG, "BLUE LED GPIO26: %d",
                      gpio_get_level(APP_LED_HIGH));
 
             // Notify application
