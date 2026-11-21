@@ -4,13 +4,7 @@ An IoT-based smart fan control system built using a standard ESP32 and the ESP-I
 
 Integrates Home Assistant OS running on VirtualBox with the Mosquitto MQTT broker and Home Assistant Assist to demonstrate wireless device control and voice-assisted home automation.
 
-![framework](https://img.shields.io/badge/framework-ESP--IDF-red) ![platform](https://img.shields.io/badge/platform-ESP32-blue) ![automation](https://img.shields.io/badge/automation-Home%20Assistant-41BDF5) ![protocol](https://img.shields.io/badge/protocol-MQTT-660066) ![control](https://img.shields.io/badge/control-Voice%20%26%20Physical-orange)
-![Platform](https://img.shields.io/badge/Platform-ESP32-blue)
-![Framework](https://img.shields.io/badge/Framework-ESP--IDF-red)
-![Language](https://img.shields.io/badge/Language-C-blue)
-![Automation](https://img.shields.io/badge/Automation-Home%20Assistant-41BDF5)
-![Protocol](https://img.shields.io/badge/Protocol-MQTT-660066)
-![Status](https://img.shields.io/badge/Project-Prototype-orange)
+![framework](https://img.shields.io/badge/framework-ESP--IDF-red) ![platform](https://img.shields.io/badge/platform-ESP32-blue) ![automation](https://img.shields.io/badge/automation-Home%20Assistant-41BDF5) ![protocol](https://img.shields.io/badge/protocol-MQTT-660066) ![control](https://img.shields.io/badge/control-Voice%20%26%20Physical-orange) ![hardware](https://img.shields.io/badge/hardware-Dual--Channel%20Relay-green)
 
 ## 1. Project Overview
 
