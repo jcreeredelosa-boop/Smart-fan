@@ -466,6 +466,12 @@ This project is being developed and tested as an IoT smart control prototype.
 
 The following features have been implemented or configured during development:
 
+Authors
+Kent Jesser Neri
+Alwyn Reuyan
+JC Redelosa
+Section: BSCA-B186 | Date: 11/15/2026
+
 - ESP32 firmware using PlatformIO and ESP-IDF.
 - Three physical button inputs.
 - Dual-relay output configuration.
